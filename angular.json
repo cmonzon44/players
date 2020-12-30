@@ -24,6 +24,8 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/primeng/resources/themes/bootstrap4-dark-blue/theme.css",
+              "node_modules/primeng/resources/primeng.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -120,5 +122,8 @@
       }
     }
   },
-  "defaultProject": "players"
+  "defaultProject": "players",
+  "cli": {
+    "analytics": "98637313-01a1-40f2-9f50-e3a1bc34a575"
+  }
 }
